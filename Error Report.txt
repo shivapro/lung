@@ -1,0 +1,65 @@
+~~~6/17/2021 8:48:21 AM~~~
+System.FormatException: 'one-of' must contain at least one 'item' element.
+   at System.Speech.Internal.SrgsCompiler.OneOf.System.Speech.Internal.SrgsParser.IElement.PostParse(IElement parentElement)
+   at System.Speech.Recognition.GrammarBuilder.InternalGrammarBuilder.CreateElement(IElementFactory elementFactory, IElement parent, IRule rule, IdentifierCollection ruleIds)
+   at System.Speech.Recognition.GrammarBuilder.CreateGrammar(IElementFactory elementFactory)
+   at System.Speech.Recognition.GrammarBuilder.Compile(Stream stream)
+   at System.Speech.Recognition.Grammar.LoadCfg(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.LoadAndCompileCfgData(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.InitialGrammarLoad(String ruleName, Object[] parameters, Boolean isImportedGrammar)
+   at System.Speech.Recognition.Grammar..ctor(GrammarBuilder builder)
+   at CustomizeableJarvis.frmMain.ReadDirectories() in C:\Users\Michael Wilson\Desktop\CustomizableJarvis\CustomizeableJarvis\Form1.cs:line 589
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~6/17/2021 8:48:22 AM~~~
+System.FormatException: 'one-of' must contain at least one 'item' element.
+   at System.Speech.Internal.SrgsCompiler.OneOf.System.Speech.Internal.SrgsParser.IElement.PostParse(IElement parentElement)
+   at System.Speech.Recognition.GrammarBuilder.InternalGrammarBuilder.CreateElement(IElementFactory elementFactory, IElement parent, IRule rule, IdentifierCollection ruleIds)
+   at System.Speech.Recognition.GrammarBuilder.CreateGrammar(IElementFactory elementFactory)
+   at System.Speech.Recognition.GrammarBuilder.Compile(Stream stream)
+   at System.Speech.Recognition.Grammar.LoadCfg(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.LoadAndCompileCfgData(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.InitialGrammarLoad(String ruleName, Object[] parameters, Boolean isImportedGrammar)
+   at System.Speech.Recognition.Grammar..ctor(GrammarBuilder builder)
+   at CustomizeableJarvis.frmMain.ReadDirectories() in C:\Users\Michael Wilson\Desktop\CustomizableJarvis\CustomizeableJarvis\Form1.cs:line 589
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~6/17/2021 8:50:30 AM~~~
+System.FormatException: 'one-of' must contain at least one 'item' element.
+   at System.Speech.Internal.SrgsCompiler.OneOf.System.Speech.Internal.SrgsParser.IElement.PostParse(IElement parentElement)
+   at System.Speech.Recognition.GrammarBuilder.InternalGrammarBuilder.CreateElement(IElementFactory elementFactory, IElement parent, IRule rule, IdentifierCollection ruleIds)
+   at System.Speech.Recognition.GrammarBuilder.CreateGrammar(IElementFactory elementFactory)
+   at System.Speech.Recognition.GrammarBuilder.Compile(Stream stream)
+   at System.Speech.Recognition.Grammar.LoadCfg(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.LoadAndCompileCfgData(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.InitialGrammarLoad(String ruleName, Object[] parameters, Boolean isImportedGrammar)
+   at System.Speech.Recognition.Grammar..ctor(GrammarBuilder builder)
+   at CustomizeableJarvis.frmMain.ReadDirectories() in C:\Users\Michael Wilson\Desktop\CustomizableJarvis\CustomizeableJarvis\Form1.cs:line 589
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~6/17/2021 8:52:43 AM~~~
+System.FormatException: 'one-of' must contain at least one 'item' element.
+   at System.Speech.Internal.SrgsCompiler.OneOf.System.Speech.Internal.SrgsParser.IElement.PostParse(IElement parentElement)
+   at System.Speech.Recognition.GrammarBuilder.InternalGrammarBuilder.CreateElement(IElementFactory elementFactory, IElement parent, IRule rule, IdentifierCollection ruleIds)
+   at System.Speech.Recognition.GrammarBuilder.CreateGrammar(IElementFactory elementFactory)
+   at System.Speech.Recognition.GrammarBuilder.Compile(Stream stream)
+   at System.Speech.Recognition.Grammar.LoadCfg(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.LoadAndCompileCfgData(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.InitialGrammarLoad(String ruleName, Object[] parameters, Boolean isImportedGrammar)
+   at System.Speech.Recognition.Grammar..ctor(GrammarBuilder builder)
+   at CustomizeableJarvis.frmMain.ReadDirectories() in C:\Users\Michael Wilson\Desktop\CustomizableJarvis\CustomizeableJarvis\Form1.cs:line 589
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~6/19/2021 9:15:02 AM~~~
+System.FormatException: 'one-of' must contain at least one 'item' element.
+   at System.Speech.Internal.SrgsCompiler.OneOf.System.Speech.Internal.SrgsParser.IElement.PostParse(IElement parentElement)
+   at System.Speech.Recognition.GrammarBuilder.InternalGrammarBuilder.CreateElement(IElementFactory elementFactory, IElement parent, IRule rule, IdentifierCollection ruleIds)
+   at System.Speech.Recognition.GrammarBuilder.CreateGrammar(IElementFactory elementFactory)
+   at System.Speech.Recognition.GrammarBuilder.Compile(Stream stream)
+   at System.Speech.Recognition.Grammar.LoadCfg(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.LoadAndCompileCfgData(Boolean isImportedGrammar, Boolean stgInit)
+   at System.Speech.Recognition.Grammar.InitialGrammarLoad(String ruleName, Object[] parameters, Boolean isImportedGrammar)
+   at System.Speech.Recognition.Grammar..ctor(GrammarBuilder builder)
+   at CustomizeableJarvis.frmMain.ReadDirectories() in C:\Users\Michael Wilson\Desktop\CustomizableJarvis\CustomizeableJarvis\Form1.cs:line 589
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
